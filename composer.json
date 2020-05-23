@@ -1,0 +1,6 @@
+{
+    "require": {
+        "spatie/browsershot": "^3.36",
+        "vlucas/phpdotenv": "^4.1"
+    }
+}
